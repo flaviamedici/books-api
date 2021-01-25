@@ -1,0 +1,26 @@
+{
+    "books": [
+        {
+            "id": 0,
+            "title": "Love Warrior",
+            "author": "Glennon Doyle",
+            "read": true,
+            "source": "Lynnwood Library"             
+        },
+        {
+            "id": 1,
+            "title": "Atomic Habits",
+            "author": "James Clear",
+            "read": true,
+            "source": "own"
+        },
+        {
+            "id": 2,
+            "title": "How to Change your Mind",
+            "author": "Michael Pollan",
+            "read": false,
+            "source": "Amazon"
+        }
+
+    ]
+}
