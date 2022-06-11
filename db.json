@@ -27,6 +27,20 @@
             "author": "Chris Guillebeau",
             "read": true,
             "source": "Powell's Books"
+        },
+        {
+            "id": 4,
+            "title": "The Slight Edge",
+            "author": "Jeff Olson",
+            "read": true,
+            "source": "Lynnwood Library"
+        },
+        {
+            "id": 5,
+            "title": "The Happiness Project",
+            "author": "Gretchen Rubin",
+            "read": false,
+            "source": "Powell's Books"
         }
 
     ]
